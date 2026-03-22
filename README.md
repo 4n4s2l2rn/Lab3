@@ -1,5 +1,6 @@
 # TP3 : Développement d'une Application Android de Formulaire
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ## 📝 Présentation
 Ce projet a été réalisé dans le cadre du module de développement mobile. L'objectif est de concevoir une application Android native permettant la saisie d'informations utilisateur, leur validation, et leur transmission vers une activité de récapitulatif.
 
